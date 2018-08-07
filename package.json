@@ -1,11 +1,11 @@
 {
-  "name": "react-native-swiper",
+  "name": "react-native-swiper-fix",
   "keywords": [
     "react-component",
     "react-native",
     "ios"
   ],
-  "version": "1.5.13",
+  "version": "1.5.14",
   "description": "Swiper component for React Native.",
   "main": "index.js",
   "scripts": {
@@ -43,14 +43,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leecade/react-native-swiper.git"
+    "url": "https://github.com/lhl09120/react-native-swiper.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/leecade/react-native-swiper/issues"
   },
-  "homepage": "https://github.com/leecade/react-native-swiper#readme",
+  "homepage": "https://github.com/lhl09120/react-native-swiper",
   "devDependencies": {
     "babel-eslint": "^8.0.1",
     "rimraf": "^2.5.4",
