@@ -1,5 +1,5 @@
 {
-  "name": "react-native-swiper-fix",
+  "name": "rn-swiper-fix",
   "keywords": [
     "react-component",
     "react-native",
@@ -48,7 +48,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leecade/react-native-swiper/issues"
+    "url": "https://github.com/lhl09120/react-native-swiper/issues"
   },
   "homepage": "https://github.com/lhl09120/react-native-swiper",
   "devDependencies": {
