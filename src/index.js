@@ -410,7 +410,7 @@ export default class extends Component {
     // the variation of `index` more than 1.
     // parseInt() ensures it's always an integer
     index = parseInt(index + Math.round(diff / step))
-    if (index > this.state.total) index = this.state.total - 1;
+    if (index > this.state.total - 1) index = this.state.total - 1;
     if (this.props.loop) {
       if (index <= -1) {
         index = state.total - 1
